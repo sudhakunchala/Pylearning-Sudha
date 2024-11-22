@@ -1,0 +1,13 @@
+-HTTP: Hyper text transfer protocol
+- http is a protocol(set of rules)for fetching resourses such as html documents.
+- HTTP is stateless
+- Stateless means, there is no link between two consequtive requests
+- URL:Uniform resource locator
+- URL is Where is your resourse located
+   - consists of domain name (google.com,faceook.com etc)
+- Query parameter: is searching for something, provides filtering or options
+- path parameter: is more specific, identifying uniques resources, edit directly in URL
+- What happen when we type google.com on the browser:
+   - 1. protocal(HTTPS)->subdomain(www)->DNS(domain name server)
+-Authentication Vs Authorization
+   1. 
