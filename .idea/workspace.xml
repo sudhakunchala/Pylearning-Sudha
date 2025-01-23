@@ -4,46 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1463199d-b26f-46dd-955c-eeb5c9293fd4" name="Changes" comment="python notes">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan 22/Raju.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan 22/Sudha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Boostrap dropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Handling Notification popup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/How to handle cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Keyboard actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Select db operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Webtable1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Xlutility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/capture screenshot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/date picker_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/db operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/dropdowns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/fixeddepositcalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handle authentication alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handle frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handling broken links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handling browser windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handling date picker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handling files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/handling links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/headless mode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/inner frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/mouse operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/mouse_doubleclick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/mouse_draganddrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/mouse_rightclick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/mouse_slider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/reading excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/scrolling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/tabs and windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/upload flies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/webtable_Dynamic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/writinddata into excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice python/practice.py" afterDir="false" />
+    <list default="true" id="1463199d-b26f-46dd-955c-eeb5c9293fd4" name="Changes" comment="example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/checkboxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/checkboxes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +119,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "sudha",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -200,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732255925238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="example">
+      <option name="closed" value="true" />
+      <created>1737591726974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737591726974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +186,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="python notes" />
+    <MESSAGE value="example" />
+    <option name="LAST_COMMIT_MESSAGE" value="example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
