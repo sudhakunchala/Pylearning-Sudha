@@ -5,12 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1463199d-b26f-46dd-955c-eeb5c9293fd4" name="Changes" comment="python notes">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 22/Raju.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 22/Sudha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Boostrap dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Handling Notification popup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/How to handle cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Keyboard actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Select db operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Webtable1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Xlutility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/capture screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/date picker_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/db operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/dropdowns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/fixeddepositcalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handle authentication alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handle frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling broken links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling browser windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling date picker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/headless mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/inner frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/mouse operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/mouse_doubleclick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/mouse_draganddrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/mouse_rightclick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/mouse_slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/reading excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/scrolling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/tabs and windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/upload flies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/webtable_Dynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/writinddata into excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice python/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/checkboxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/checkboxes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +58,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -40,52 +78,85 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.Arithmetic operators.executor": "Run",
+    "Python.Boostrap dropdown.executor": "Run",
     "Python.Checking largest of 2 numbers.executor": "Run",
     "Python.Conditional Statements.executor": "Run",
     "Python.Dictionary.executor": "Run",
     "Python.Exception handling.executor": "Run",
+    "Python.Handling Notification popup.executor": "Run",
+    "Python.How to handle cookies.executor": "Run",
     "Python.How to take Input from the user.executor": "Run",
     "Python.Implicit wait.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Jumping loops(break & continue).executor": "Run",
+    "Python.Keyboard actions.executor": "Run",
     "Python.List.executor": "Run",
     "Python.Locators1.executor": "Run",
     "Python.Numbers demo.executor": "Run",
     "Python.OOPS_programs.executor": "Run",
     "Python.Positive or Negative.executor": "Run",
     "Python.Print week name.executor": "Run",
+    "Python.Raju.executor": "Run",
     "Python.Range function.executor": "Run",
     "Python.Set.executor": "Run",
+    "Python.Sudha.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.Webtable1.executor": "Run",
     "Python.Xpath axes.executor": "Run",
     "Python.Xpath.executor": "Run",
     "Python.ab.executor": "Run",
+    "Python.alerts.executor": "Run",
     "Python.animalsandbirds.executor": "Run",
     "Python.application commands.executor": "Run",
     "Python.browser commands.executor": "Run",
     "Python.calclator.executor": "Run",
+    "Python.capture screenshot.executor": "Run",
+    "Python.checkboxes.executor": "Run",
     "Python.checking largest of 3 numbers.executor": "Run",
     "Python.client.executor": "Run",
     "Python.client2.executor": "Run",
     "Python.concatination.executor": "Run",
     "Python.conditional commands.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.date picker_1.executor": "Run",
+    "Python.db operations.executor": "Run",
     "Python.deletingvariable.executor": "Run",
+    "Python.dropdowns.executor": "Run",
     "Python.for loop.executor": "Run",
     "Python.formatting output.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.handle authentication alert.executor": "Run",
+    "Python.handle frames.executor": "Run",
+    "Python.handling broken links.executor": "Run",
+    "Python.handling browser windows.executor": "Run",
+    "Python.handling date picker.executor": "Run",
     "Python.handling files.executor": "Run",
+    "Python.handling links.executor": "Run",
+    "Python.headless mode.executor": "Run",
+    "Python.inner frames.executor": "Run",
     "Python.locators2.executor": "Run",
     "Python.locators3(CSS selector).executor": "Run",
     "Python.logical operators.executor": "Run",
+    "Python.mouse operations.executor": "Run",
+    "Python.mouse_doubleclick.executor": "Run",
+    "Python.mouse_draganddrop.executor": "Run",
+    "Python.mouse_rightclick.executor": "Run",
+    "Python.mouse_slider.executor": "Run",
     "Python.navigational commands.executor": "Run",
     "Python.operations.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.reading excel.executor": "Run",
     "Python.relational operators.executor": "Run",
+    "Python.scrolling.executor": "Run",
+    "Python.tabs and windows.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.types of arguments.executor": "Run",
+    "Python.upload flies.executor": "Run",
     "Python.while loop.executor": "Run",
+    "Python.writinddata into excel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "sudha",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -113,8 +184,35 @@
       <option name="project" value="LOCAL" />
       <updated>1732254721348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python notes">
+      <option name="closed" value="true" />
+      <created>1732255856643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732255856643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python notes">
+      <option name="closed" value="true" />
+      <created>1732255925238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732255925238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python notes" />
@@ -132,6 +230,25 @@
           <url>file://$PROJECT_DIR$/Day7/Exception handling.py</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium/checkboxes.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium/inner frames.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium/handling date picker.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium/Xlutility.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
