@@ -4,13 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1463199d-b26f-46dd-955c-eeb5c9293fd4" name="Changes" comment="python notes">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a6210190-32dd-46f0-a8f7-474de8e850ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_request1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_API_Automation/test_request2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python practice/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Handling Notification popup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/How to handle cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/capture screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/date picker_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/db operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/db_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/dropdowns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/fixeddepositcalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handle authentication alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handle frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling browser windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling date picker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/handling links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/headless mode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,70 +45,78 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2noCIst1dcL2aqDbofFflhRjEKS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2sgtMelvEHnIFvcgILSrSL3hVnc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_lab001.test_addition.executor": "Run",
+    "Python tests.Python tests for test_lab001.test_subtraction.executor": "Run",
     "Python.1.executor": "Run",
-    "Python.Arithmetic operators.executor": "Run",
-    "Python.Checking largest of 2 numbers.executor": "Run",
-    "Python.Conditional Statements.executor": "Run",
-    "Python.Dictionary.executor": "Run",
-    "Python.Exception handling.executor": "Run",
-    "Python.How to take Input from the user.executor": "Run",
-    "Python.Implicit wait.executor": "Run",
-    "Python.Inheritance.executor": "Run",
-    "Python.Jumping loops(break & continue).executor": "Run",
-    "Python.List.executor": "Run",
-    "Python.Locators1.executor": "Run",
-    "Python.Numbers demo.executor": "Run",
-    "Python.OOPS_programs.executor": "Run",
-    "Python.Positive or Negative.executor": "Run",
-    "Python.Print week name.executor": "Run",
-    "Python.Range function.executor": "Run",
-    "Python.Set.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.Xpath axes.executor": "Run",
-    "Python.Xpath.executor": "Run",
-    "Python.ab.executor": "Run",
-    "Python.animalsandbirds.executor": "Run",
-    "Python.application commands.executor": "Run",
-    "Python.browser commands.executor": "Run",
-    "Python.calclator.executor": "Run",
-    "Python.checking largest of 3 numbers.executor": "Run",
-    "Python.client.executor": "Run",
-    "Python.client2.executor": "Run",
-    "Python.concatination.executor": "Run",
-    "Python.conditional commands.executor": "Run",
-    "Python.datatypes.executor": "Run",
-    "Python.deletingvariable.executor": "Run",
-    "Python.for loop.executor": "Run",
-    "Python.formatting output.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.handling files.executor": "Run",
-    "Python.locators2.executor": "Run",
-    "Python.locators3(CSS selector).executor": "Run",
-    "Python.logical operators.executor": "Run",
-    "Python.navigational commands.executor": "Run",
-    "Python.operations.executor": "Run",
-    "Python.relational operators.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.types of arguments.executor": "Run",
-    "Python.while loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "printer-reenroll",
+    "last_opened_file_path": "C:/Users/sudha/PycharmProjects/PythonLearning/Pytest_API_Automation",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sudha\PycharmProjects\PythonLearning\Pytest_API_Automation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for Pytest_API_Automation.test_lab001.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytest_API_Automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Pytest_API_Automation.test_lab001.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Pytest_API_Automation.test_lab001.test_subtraction" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytest_API_Automation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Pytest_API_Automation.test_lab001.test_subtraction&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Pytest_API_Automation.test_lab001.test_subtraction" />
+        <item itemvalue="Python tests.Python tests for Pytest_API_Automation.test_lab001.test_addition" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,26 +127,49 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1463199d-b26f-46dd-955c-eeb5c9293fd4" name="Changes" comment="" />
-      <created>1729629965580</created>
+      <changelist id="a6210190-32dd-46f0-a8f7-474de8e850ba" name="Changes" comment="" />
+      <created>1738889000564</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729629965580</updated>
+      <updated>1738889000564</updated>
     </task>
-    <task id="LOCAL-00001" summary="python notes">
-      <option name="closed" value="true" />
-      <created>1732254721348</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1732254721348</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="python notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="python notes" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d769a328-2e08-48fc-a4cf-305d961f0f5f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="d769a328-2e08-48fc-a4cf-305d961f0f5f">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/sudha/PycharmProjects/PythonLearning/Selenium" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -132,6 +183,11 @@
           <url>file://$PROJECT_DIR$/Day7/Exception handling.py</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pytest_API_Automation/test_request2.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
