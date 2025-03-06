@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pylearning-Sudha.iml" filepath="$PROJECT_DIR$/.idea/Pylearning-Sudha.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonInterviewquestions.iml" filepath="$PROJECT_DIR$/.idea/PythonInterviewquestions.iml" />
+>>>>>>> Python interview questins Feb23
+    </modules>
+  </component>
+</project>
