@@ -4,33 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1681fe4b-3257-449f-ac37-64b309078f34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonInterviewquestions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/Question5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question8.py" afterDir="false" />
+    <list default="true" id="1681fe4b-3257-449f-ac37-64b309078f34" name="Changes" comment="python_questions_mar5th">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/fibanocci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/largest_number_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/reverse_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/string_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/swapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_TechtalksVPM/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview questions practice/ques1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_TechtalksVPM/question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_TechtalksVPM/question1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,32 +37,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-    &quot;keyToString&quot;: {
-      &quot;Python.Question5.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question1.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question2.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question3.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question4.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question6.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question7.executor&quot;: &quot;Run&quot;,
-      &quot;Python.question8.executor&quot;: &quot;Run&quot;,
-      &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-      &quot;git-widget-placeholder&quot;: &quot;master&quot;
-    }
-  }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Rebasing master"
+  }
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1681fe4b-3257-449f-ac37-64b309078f34" name="Changes" comment="" />

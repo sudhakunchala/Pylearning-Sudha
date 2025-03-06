@@ -7,4 +7,4 @@ print(str[:-1])
 # : is a slicing operator, str[:-1] means it will slice last character and give remaining INDI
 
 print(str[::-1])
-# str[::-1] gives reverse string i.e AIDNI
+# str[::-1] gives reverse ::wqstring i.e AIDNI
